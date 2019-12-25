@@ -293,4 +293,4 @@ defaults:
       share: true
       related: true
 # category     
-category_list: [ 알고리즘, 일상 ]
+category_list: [ algorithm, diary ]
