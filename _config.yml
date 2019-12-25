@@ -292,3 +292,5 @@ defaults:
       comments: # true
       share: true
       related: true
+# category     
+category_list: [ nodejs, javascript, tip, diary, linux, chatbot, php ,publishing, jekyll, sql, error ]
